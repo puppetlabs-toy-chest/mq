@@ -2,6 +2,8 @@
 
 A simple library to embed an ActiveMQ instance in your clojure application.
 
+[![CI Build Status](https://travis-ci.org/puppetlabs/mq.png?branch=master)](https://travis-ci.org/puppetlabs/mq)
+
 ## Usage
 
 ```clj
