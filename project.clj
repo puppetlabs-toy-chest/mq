@@ -1,4 +1,4 @@
-(defproject puppetlabs/mq "0.1.0-SNAPSHOT"
+(defproject puppetlabs/mq "0.1.0"
   :description "A simple library to embed an ActiveMQ instance in your application."
   :license {:name "Apache License, Version 2.0"
             :url "http://www.apache.org/licenses/LICENSE-2.0.html"}
